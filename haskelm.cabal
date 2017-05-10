@@ -25,3 +25,5 @@ executable haskelm
                      , websockets
                      , http-types
                      , safe
+                     , scotty
+                     , blaze-html
